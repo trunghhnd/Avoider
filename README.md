@@ -40,6 +40,7 @@ Technologies Used
 ---
 
 Screenshots
+
 <img width="685" height="382" alt="image" src="https://github.com/user-attachments/assets/3c7066f9-48c3-46bb-ac71-da6c076551f8" />
 
 
@@ -58,6 +59,11 @@ Assets/Scripts/`
   - `GamePlayScene.unity` → Main gameplay scene
   - `MenuScene.unity` → Menu game scene
 ---
+
+Highlights
+- Implemented enemy spawning system
+- Designed player movement system
+- Optimized performance using object pooling
 
 Author
 - Trung
